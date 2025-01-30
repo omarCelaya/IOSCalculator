@@ -4,8 +4,6 @@ Una elegante calculadora inspirada en el diseño de iOS, desarrollada con React 
 
 ## 📷 Capturas de Pantalla
 
-<!-- ![Alt text](image-1.png) -->
-
 ## ✨ Características
 
 - 🎨 Interfaz moderna y minimalista inspirada en iOS.
