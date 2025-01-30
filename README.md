@@ -3,6 +3,7 @@
 Una elegante calculadora inspirada en el diseño de iOS, desarrollada con React Native para Android e iOS.
 
 ## 📷 Capturas de Pantalla
+![image](https://github.com/user-attachments/assets/d6a6259a-7d77-4428-a540-9f2b803e9c90)
 
 ## ✨ Características
 
